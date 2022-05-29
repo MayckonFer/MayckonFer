@@ -1,5 +1,11 @@
 ## Olá, Bem vindo ao meu perfil
 
+👨‍💻 Developer Front-End
+
+👨‍🎓 Studying Javascript
+
+💻 Studying at Rocketseat
+
 <div align="center">
   <a href="https://github.com/MayckonFer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayckonFer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
