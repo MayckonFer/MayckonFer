@@ -2,7 +2,7 @@
 
 👨‍💻 Developer Front-End
 
-👨‍🎓 Studying Javascript
+👨‍🎓 Studying Javascript - ReactJs/NextJs
 
 💻 Studying at Rocketseat
 
