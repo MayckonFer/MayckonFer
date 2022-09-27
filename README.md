@@ -1,8 +1,8 @@
 ## Hello, Welcome my Profile
 
-👨‍💻 Developer full-stack
+👨‍💻 Developer Front-End
 
-👨 Technologies: Javascript - ReactJs - React-Native - NextJs - NodeJs
+👨 Technologies: Javascript - Typescript - ReactJs - React-Native - NextJs - NodeJs
 
 💻 Studying at Rocketseat
 
