@@ -4,7 +4,7 @@
 
 👨 Technologies: Javascript - Typescript - ReactJs - React-Native - NextJs
 
-💻 Studying at Rocketseat
+💻 Studying at Rocketseat and Alura
 
 <div align="center">
   <a href="https://github.com/MayckonFer">
