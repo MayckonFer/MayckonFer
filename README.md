@@ -2,7 +2,7 @@
 
 👨‍💻 Developer Front-End
 
-👨 Technologies: Javascript - Typescript - ReactJs - React-Native - NextJs - NodeJs
+👨 Technologies: Javascript - Typescript - ReactJs - React-Native - NextJs
 
 💻 Studying at Rocketseat
 
