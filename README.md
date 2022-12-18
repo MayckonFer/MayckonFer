@@ -1,10 +1,8 @@
-## Hello, Welcome my Profile
+## Olá, Bem vindo 
 
-👨‍💻 Developer Front-End
+👨‍💻 Desenvolverdor FullStack
 
-👨 Technologies: Javascript - Typescript - ReactJs - React-Native - NextJs
-
-💻 Studying at Rocketseat and Alura
+👨 Tecnologias: Javascript - Typescript - ReactJs - React-Native - NextJs - NodeJs
 
 <div align="center">
   <a href="https://github.com/MayckonFer">
