@@ -2,7 +2,7 @@
 
 👨‍💻 Desenvolverdor FullStack
 
-👨 Tecnologias: Javascript - Typescript - ReactJs - React-Native - NextJs - NodeJs
+👨 Tecnologias: HTML5 CSS3 - Javascript - Typescript - ReactJs - React-Native - NextJs - NodeJs
 
 
 
