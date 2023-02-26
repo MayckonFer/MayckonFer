@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá👋
 
 - 🔭 Atualmente estou trabalhando com ReactJs
 - 🌱 Atualmente estou aprendendo Javascript, ReactJs, React-Native e NodeJs
@@ -6,7 +6,7 @@
 - 💬 Pergunte-me sobre minha experiencia
 - ⚡ Curiosidade: estou estudando desenvolvimento FullStack
 
-## 🌐 Socials:
+## 🌐 Contato:
 
 <div>
 <a href="https://www.instagram.com/mayckonf3r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -20,7 +20,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayckonFer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## Tech Stack
+## 🧑‍💻 Tech Stack
 
 <div>
 <a href="https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" target="_blank"><img src="https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" target="_blank"></a>
