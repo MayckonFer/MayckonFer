@@ -1,8 +1,12 @@
 ## Olá, seja bem vindo ao meu GitHub.
 
-👨‍💻 Desenvolverdor FullStack
-
-👨 Tecnologias: HTML5 CSS3 - Javascript - Typescript - ReactJs - React-Native - NextJs - NodeJs
+- 🔭 Atualmente estou trabalhando na LeadMedia
+- 🌱 Atualmente estou aprendendo ReactJs, React-Native e NodeJs
+- 👯 Estou procurando colaborar no desenvolvimento Front-End
+- 🤔 Estou procurando ajuda com desenvolvimento Full-Stack
+- 💬 Pergunte-me sobre Tecnologias usando Javascript
+- 📫 Como entrar em contato comigo: LinkedIn
+- ⚡ Curiosidade: Gosto muito de aprender algo novo
 
 <div>
 <a href="https://github.com/MayckonFer">
