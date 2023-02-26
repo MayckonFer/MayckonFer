@@ -6,6 +6,13 @@
 - 💬 Pergunte-me sobre minha experiencia
 - ⚡ Curiosidade: estou estudando desenvolvimento FullStack
 
+🌐 Socials:
+
+<div>
+<a href="https://www.instagram.com/mayckonf3r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mayckon-fernandes-a941ba218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 ## 📊 GitHub Stats:
 <div>
 <a href="https://github.com/MayckonFer">
