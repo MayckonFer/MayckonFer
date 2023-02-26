@@ -6,6 +6,7 @@
 - 💬 Pergunte-me sobre minha experiencia
 - ⚡ Curiosidade: estou estudando desenvolvimento FullStack
 
+## 📊 GitHub Stats:
 <div>
 <a href="https://github.com/MayckonFer">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayckonFer&layout=compact&langs_count=7&theme=dracula"/>
