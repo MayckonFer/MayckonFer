@@ -54,8 +54,6 @@
  
  ##
  
- <div>
- <a href="https://tenor.com/search/cat-gifs"><img src="https://tenor.com/bh20J.gif" /></a>
- </div>
+ https://tenor.com/bh20J.gif
  
  
