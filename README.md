@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on ReactJs
-- 🌱 I’m currently learning Javascript, ReactJs, React-Native e NodeJs
+- 🌱 I’m currently learning Javascript, ReactJs, React-Native and NodeJs
 - 👯 I’m looking to collaborate on Front-End Developer
 - 💬 Ask me about my experience
 - ⚡ Fun fact i am fullStack developer 
