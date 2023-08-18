@@ -53,8 +53,10 @@
  <img align="left" alt="meme dev" src="https://github.com/MayckonFer/MayckonFer/blob/main/cat-type.gif">
  
  
-  ![Snake animation](https://github.com/MayckonFer/MayckonFer/blob/output/github-contribution-grid-snake.svg)
+  
  </div>
+
+ ![Snake animation](https://github.com/MayckonFer/MayckonFer/blob/output/github-contribution-grid-snake.svg)
  
  ##
  
