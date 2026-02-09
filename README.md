@@ -23,9 +23,8 @@ I work mainly on **dashboards, admin systems and landing pages**, focusing on **
 
 ### 🔗 Links
 - LinkedIn: https://www.linkedin.com/in/mayckon-fernandes-a941ba218/
-- Portfolio / Projects: (add when available)
-
 ---
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayckonFer&show_icons=true&theme=dark)
+
